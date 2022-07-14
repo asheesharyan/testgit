@@ -1,6 +1,3 @@
 <?php
-
-define('SITE_URL', 'http://localhost/honda');
-
-
+define('SITE_URL', 'http://localhost/honda1');
 ?>
