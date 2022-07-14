@@ -1,6 +1,6 @@
 <?php
 
-define('SITE_URL', 'www.honda.com')
+define('SITE_URL', 'http://localhos/honda');
 
 
 ?>
